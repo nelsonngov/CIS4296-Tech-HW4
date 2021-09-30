@@ -1,0 +1,21 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MainPage.master.cs" Inherits="Technical_Hw4_NelsonNgov.MainPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   <form id="form1" runat="server">
+        <div>
+            <h1 style="color:aqua"> This is my master page</h1>
+            <h2 style="color:orange">Inside the content place holder tag will go my content pages</h2>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

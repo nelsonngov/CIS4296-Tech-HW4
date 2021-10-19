@@ -70,6 +70,22 @@
     <Content Include="ContentPage1.aspx" />
     <Content Include="ContentPage2.aspx" />
     <Content Include="ContentPage3.aspx" />
+    <Content Include="images\adoption.jfif" />
+    <Content Include="images\catfood.jfif" />
+    <Content Include="images\catheader.jfif" />
+    <Content Include="images\catprintbackground.jpg" />
+    <Content Include="images\catsupplies.jfif" />
+    <Content Include="images\checkup.jfif" />
+    <Content Include="images\daycare.jfif" />
+    <Content Include="images\dogheader.png" />
+    <Content Include="images\dogmedicine.png" />
+    <Content Include="images\dogprintbackground.jpg" />
+    <Content Include="images\dogtreats.jpg" />
+    <Content Include="images\grooming.jfif" />
+    <Content Include="images\insurance.jpg" />
+    <Content Include="images\petstore.png" />
+    <Content Include="images\training.jfif" />
+    <Content Include="PetStyle.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -1,0 +1,44 @@
+﻿body {
+    background-color: lightgoldenrodyellow;
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+
+form {
+    margin: 0;
+    padding: 0;
+}
+#masterdiv{
+    text-align:center;
+}
+
+#contentDiv1{
+    margin:30px;
+}
+
+#contentDiv1 {
+    margin: 30px;
+}
+#header {
+    background-color: cornflowerblue;
+    color: ghostwhite;
+    margin-top: 55px;
+    padding-bottom:20px;
+    padding-top:10px;
+}
+
+#Content1{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+#Content2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: cornflowerblue;
+    color: ghostwhite;  
+}
